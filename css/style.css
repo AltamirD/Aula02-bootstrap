@@ -1,0 +1,9 @@
+
+/* NAVBAR */
+nav.navbar {
+    background: rgb(248 , 0 , 50);
+}
+
+.navbar-nav .nav-link, .navbar-brand {
+    color: #fff;
+}
