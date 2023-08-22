@@ -1,9 +1,19 @@
 
 /* NAVBAR */
 nav.navbar {
-    background: rgb(248 , 0 , 50);
+    background: rgb(0, 136, 255);
 }
 
 .navbar-nav .nav-link, .navbar-brand {
     color: #fff;
+}
+
+#posts-destaque, #posts-destaque a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#posts-destaque {
+    background: rgb(0, 136, 255);
+    
 }
